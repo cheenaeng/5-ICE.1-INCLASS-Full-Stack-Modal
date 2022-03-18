@@ -1,0 +1,12 @@
+.modal {
+  padding: 2vh;
+  left: 15vw;
+  right: 10vw;
+  margin: 0 auto;
+  border: 1px solid black;
+  position: fixed;
+}
+
+.hide-class {
+  visibility: hidden;
+}
